@@ -1,4 +1,4 @@
-const CACHE_NAME = 'wedding-prep-v1';
+const CACHE_NAME = 'wedding-prep-v2';
 const BASE_URL = new URL('./', self.registration.scope);
 const shellUrl = (asset) => new URL(asset, BASE_URL).toString();
 const INDEX_URL = shellUrl('index.html');
