@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">婚礼筹备</title>
+  <rect width="512" height="512" rx="116" fill="#C8102E"/>
+  <path d="M256 105c34 0 62 28 62 62 0 8-2 16-5 24 34 9 59 40 59 77 0 27-14 52-37 66 0 48-35 86-79 86s-79-38-79-86c-23-14-37-39-37-66 0-37 25-68 59-77-3-8-5-16-5-24 0-34 28-62 62-62Z" fill="#D4AF37"/>
+  <path d="M190 271c23 24 49 36 66 36s43-12 66-36M217 233h1M294 233h1" fill="none" stroke="#C8102E" stroke-linecap="round" stroke-width="16"/>
+  <path d="M256 333c-53 0-96 22-96 49v25h192v-25c0-27-43-49-96-49Z" fill="#FFF7E7"/>
+  <circle cx="256" cy="365" r="12" fill="#C8102E"/>
+</svg>
