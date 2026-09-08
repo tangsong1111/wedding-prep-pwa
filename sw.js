@@ -9,6 +9,7 @@ const APP_SHELL = [
   'icons/icon-180.png',
   'icons/icon-192.png',
   'icons/icon-512.png',
+  'images/couple-countdown.png',
   'src/main.js',
   'src/styles/app.css',
   'src/styles/tokens.css'
